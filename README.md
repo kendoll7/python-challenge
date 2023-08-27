@@ -5,7 +5,7 @@ https://stackoverflow.com/questions/20457038/how-to-round-to-2-decimals-with-pyt
 https://www.javatpoint.com/how-to-write-in-text-file-using-python
 https://www.positioniseverything.net/rejected-master-master-fetch-first/
 
-Besides class material, I used these websites for assistance.
+Besides class material, I used these websites for assistance. I also had to use instructor videos for assistance.
 
 The writing to text file was written with the assistance of the intructor's code. The "\n" and "not in" was also learned from the instuctor.
 
